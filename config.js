@@ -4,23 +4,23 @@ const chalk = require("chalk")
 global.available = true
 global.autoReadGc = true
 global.autoReadAll = false
-global.antitags = true
+global.antitags = false
 
 
-global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.Owner = ['6281999117477']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['6281999117477']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['6281999117477']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.BotName = "NuBot"
+global.packname = "Thanks"
+global.author = "NuBot"
+global.OwnerName = "Nuga"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except '@' //
+global.prefa = ['-', '#', '.', '!'] // Prefix ---  change it to anythong you want except '@' //
 
 
 global.location = "West Bengal, India"
@@ -77,8 +77,8 @@ global.mess = {
 
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
-    monayawal: 1000
+    free: 100,
+    monayawal: 10000
 }
    global.rpg = {
    darahawal: 100,
@@ -90,7 +90,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 200
 }
 
 
